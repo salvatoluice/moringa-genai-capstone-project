@@ -23,8 +23,8 @@ Before running this calculator, make sure you have:
 
 1. **Clone or Download the Project**
    ```bash
-   git clone <repository-url>
-   cd go-calculator
+   git clone ```git@github.com:salvatoluice/moringa-genai-capstone-project.git```
+   cd moringa-genai-capstone-project
    ```
 
 2. **Initialize Go Module** (if not already done)
