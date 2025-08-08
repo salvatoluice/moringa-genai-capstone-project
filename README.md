@@ -1,8 +1,8 @@
-# 🧮 Go Calculator
+#  Go Calculator
 
 A simple, interactive command-line calculator built with Go programming language. This project demonstrates basic Go programming concepts including functions, error handling, user input/output, and unit testing.
 
-## 🚀 Features
+##  Features
 
 - **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, Division
 - **Advanced Operations**: Power/Exponentiation
@@ -11,7 +11,7 @@ A simple, interactive command-line calculator built with Go programming language
 - **Unit Tests**: Comprehensive test coverage for all calculator functions
 - **Input Validation**: Handles invalid inputs gracefully
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this calculator, make sure you have:
 
@@ -37,7 +37,7 @@ Before running this calculator, make sure you have:
    go version
    ```
 
-## ▶️ How to Run
+##  How to Run
 
 ### Method 1: Direct Run
 ```bash
@@ -54,7 +54,7 @@ go build -o calculator
 calculator.exe      # On Windows
 ```
 
-## 🧪 Running Tests
+##  Running Tests
 
 Execute all unit tests:
 ```bash
@@ -71,7 +71,7 @@ Check test coverage:
 go test -cover
 ```
 
-## 📖 How to Use
+##  How to Use
 
 1. **Start the Calculator**
    - Run the program using one of the methods above
@@ -106,7 +106,7 @@ go test -cover
 | Division | `/` or `divide` | Divides first by second | 6 / 3 = 2 |
 | Power | `^` or `power` | Raises first to power of second | 2 ^ 3 = 8 |
 
-## 🚨 Error Handling
+##  Error Handling
 
 The calculator handles various error cases:
 
@@ -115,7 +115,7 @@ The calculator handles various error cases:
 - **Unsupported Operations**: Shows error for operations not supported
 - **Empty Input**: Validates and handles empty input fields
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 go-calculator/
@@ -129,7 +129,7 @@ go-calculator/
 └── .gitignore          # Git ignore rules
 ```
 
-## 🧪 Test Coverage
+##  Test Coverage
 
 The project includes comprehensive unit tests covering:
 
@@ -139,7 +139,7 @@ The project includes comprehensive unit tests covering:
 - ✅ Operation validation
 - ✅ Input validation
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/new-feature`)
@@ -147,15 +147,15 @@ The project includes comprehensive unit tests covering:
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
+##  Author
 
 Created as part of Moringa AI Capstone Project - demonstrating Go programming fundamentals with AI-assisted learning.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Go Programming Language Team
 - Moringa School AI Program

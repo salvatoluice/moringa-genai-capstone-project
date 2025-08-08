@@ -1,6 +1,6 @@
 # AI Prompt Journal - Go Calculator Learning Process
 
-## 📖 Overview
+##  Overview
 This document records all AI prompts used during the development of the Go Calculator project, along with evaluations of their effectiveness. This serves as both a learning log and a reference for future AI-assisted programming projects.
 
 **Project**: Go Calculator  
@@ -10,7 +10,7 @@ This document records all AI prompts used during the development of the Go Calcu
 
 ---
 
-## 🚀 Phase 1: Initial Learning & Setup (Prompts 1-3)
+##  Phase 1: Initial Learning & Setup (Prompts 1-3)
 
 ### Prompt #1: Technology Overview
 **Prompt Used**: 
@@ -164,7 +164,7 @@ Great for making the calculator production-ready. The validation techniques will
 
 ---
 
-## 🧪 Phase 3: Testing & Quality (Prompts 8-9)
+##  Phase 3: Testing & Quality (Prompts 8-9)
 
 ### Prompt #8: Unit Testing
 **Prompt Used**: 
@@ -210,7 +210,7 @@ Valuable for writing professional Go code. Documentation and naming conventions 
 
 ---
 
-## 📚 Phase 4: Documentation & Deployment (Prompts 10-12)
+##  Phase 4: Documentation & Deployment (Prompts 10-12)
 
 ### Prompt #10: README Creation
 **Prompt Used**: 
@@ -278,7 +278,7 @@ Excellent project management guidance. Ensured nothing was missed in the final s
 
 ---
 
-## 📊 Overall AI Effectiveness Summary
+##  Overall AI Effectiveness Summary
 
 ### Quantitative Analysis
 - **Total Prompts Used**: 12

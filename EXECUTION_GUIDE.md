@@ -1,4 +1,4 @@
-# 🚀 Complete Execution Guide - Go Calculator Project
+#  Complete Execution Guide - Go Calculator Project
 
 ## 📁 Project Structure (Verify you have all these files)
 
@@ -22,7 +22,7 @@ go-calculator/
 3. **Run the calculator**: `go run main.go calculator.go`
 4. **Test it**: Enter numbers and operations as prompted
 
-## 🧪 Step-by-Step Execution
+##  Step-by-Step Execution
 
 ### Step 1: Verify Go Installation
 ```bash
@@ -73,7 +73,7 @@ calculator.exe      # Windows
 
 ### Example Test Session
 ```
-🧮 Welcome to Go Calculator!
+ Welcome to Go Calculator!
 ================================
 
 Choose an option:
@@ -148,7 +148,7 @@ ls *.go               # List Go files
 cd go-calculator       # Navigate to project if needed
 ```
 
-## 📤 Submission Preparation
+##  Submission Preparation
 
 ### Final Checklist
 - [ ] All tests pass: `go test`
@@ -184,7 +184,7 @@ git remote add origin https://github.com/yourusername/go-calculator.git
 git push -u origin main
 ```
 
-## 🎯 Evaluation Criteria Checklist
+##  Evaluation Criteria Checklist
 
 ### Clarity & Completeness of Documentation (30%)
 - [ ] TOOLKIT.md is comprehensive and well-structured
@@ -216,7 +216,7 @@ git push -u origin main
 - [ ] Professional code organization
 - [ ] Good use of Go-specific features
 
-## 🎉 Success Indicators
+##  Success Indicators
 
 Your project is ready for submission when:
 1. ✅ Calculator runs smoothly without crashes
