@@ -23,7 +23,7 @@ Before running this calculator, make sure you have:
 
 1. **Clone or Download the Project**
    ```bash
-   git clone ```git@github.com:salvatoluice/moringa-genai-capstone-project.git```
+   git clone git@github.com:salvatoluice/moringa-genai-capstone-project.git
    cd moringa-genai-capstone-project
    ```
 
